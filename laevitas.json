@@ -1,0 +1,15 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/laevitas/cli/releases/download/v0.5.0/laevitas_0.5.0_Windows_x86_64.zip",
+            "bin": [
+                "laevitas.exe"
+            ],
+            "hash": "37010e5581b87b3ef4a3b8aade782fca738fac32eab9f6072095b1a5ce7e3c61"
+        }
+    },
+    "homepage": "https://github.com/laevitas/cli",
+    "license": "MIT",
+    "description": "Crypto derivatives data CLI."
+}
