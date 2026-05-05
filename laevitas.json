@@ -1,19 +1,19 @@
 {
-    "version": "0.9.3",
+    "version": "0.10.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/laevitas/cli/releases/download/v0.9.3/laevitas_0.9.3_Windows_x86_64.zip",
+            "url": "https://github.com/laevitas/cli/releases/download/v0.10.0/laevitas_0.10.0_Windows_x86_64.zip",
             "bin": [
                 "laevitas.exe"
             ],
-            "hash": "1df358fc7ffeaafdd57bf752ff58d783b444810e51997b4143c444d3a08d49a7"
+            "hash": "27aef02a732e4121ab44c970eecb875bb6be11ca348ee555722241db4c72e856"
         },
         "arm64": {
-            "url": "https://github.com/laevitas/cli/releases/download/v0.9.3/laevitas_0.9.3_Windows_arm64.zip",
+            "url": "https://github.com/laevitas/cli/releases/download/v0.10.0/laevitas_0.10.0_Windows_arm64.zip",
             "bin": [
                 "laevitas.exe"
             ],
-            "hash": "2f2369f0207c92997bd7f0272094d40a91cf249419e6bee67be6e6480debe169"
+            "hash": "87cae0fd5597d23bd9378725a3943bed82024cc71e663ec6fd93a19ed1f3f792"
         }
     },
     "homepage": "https://github.com/laevitas/cli",
